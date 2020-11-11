@@ -1,3 +1,3 @@
 # Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+Hi! This is Jinsol. I am new to software engineering and version control. 
+I love learning new things though I am not smart enough to digest them in a short term.
